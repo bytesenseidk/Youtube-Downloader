@@ -25,8 +25,13 @@ FFmpeg Install:
 
 ____________________________________________________________________________________________
 Compile to exe:
-1. Open terminal and cd into download directory.
-2. Install pyinstaller if not already (pip install pyinstaller)
-3. Install requirements (pip install -r requirements.txt)
-4. Compile script (pyinstaller --onefile --windowed --icon=logo.ico YoutubeDownloader.py)
+1. Open terminal, download repository and cd into download directory:
+    - git clone https://github.com/LarsRosenkilde/Youtube-Downloader.git
+    - cd Youtube-Downloader
+2. Install pyinstaller: 
+    - pip install pyinstaller
+3. Install requirements:
+    - pip install -r requirements.txt
+4. Compile script:
+    - pyinstaller --onefile --windowed --icon=logo.ico YoutubeDownloader.py
 5. Executable file will be located inside "dist" folder.
