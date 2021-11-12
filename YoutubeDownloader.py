@@ -204,5 +204,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindow()
     window.show()
-    window.setWindowIcon(QtGui.QIcon("logo.ico"))
+    # window.setWindowIcon(QtGui.QIcon("logo.ico"))
     sys.exit(app.exec_())
