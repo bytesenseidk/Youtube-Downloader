@@ -5,7 +5,6 @@ import threading
 import youtube_dl
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog
-from PyQt5.QtCore import QCoreApplication, QObject, QRunnable
 
 
 class MainWindow(QMainWindow):
