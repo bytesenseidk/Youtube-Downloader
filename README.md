@@ -1,7 +1,8 @@
 # Youtube Downloader
  Fast PyQt5 Youtube download application 
 
-![downloader](https://user-images.githubusercontent.com/50791042/185374246-270f0d9d-b3fe-41e1-a196-64095fe414d3.png)
+![yt_dl](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
+
 
 FFmpeg Install:
 1. FFmpeg download link Windows 10: https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
