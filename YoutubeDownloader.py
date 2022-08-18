@@ -18,6 +18,7 @@ class MainWindow(QMainWindow):
         self.button_set.clicked.connect(self.set_button)
         self.button_download.clicked.connect(self.download_button)
         self.input_path.setText(self.std_download_path)
+        self.radio_single.setChecked(True)
         
     def set_button(self):
         file_name = QFileDialog.getExistingDirectory()
