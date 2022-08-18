@@ -145,7 +145,7 @@
      </font>
     </property>
     <property name="text">
-     <string>C:\Users\Laptop\Downloads\</string>
+     <string/>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
