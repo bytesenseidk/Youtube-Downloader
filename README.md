@@ -1,7 +1,7 @@
 # Youtube Downloader
  Fast PyQt5 Youtube download application 
 
-![downloader](https://user-images.githubusercontent.com/50791042/126369283-916472a2-5333-44a2-bf3b-d51b30e5da33.PNG)
+![downloader](https://user-images.githubusercontent.com/50791042/185374246-270f0d9d-b3fe-41e1-a196-64095fe414d3.png)
 
 FFmpeg Install:
 1. FFmpeg download link Windows 10: https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
@@ -10,7 +10,7 @@ FFmpeg Install:
   - bin
   - doc
   - presets
-    - LICENCE
+    - LICENCE![yt_dl]
     - README
 3. Copy or clip folder to C-Drive or desired folder
 4. Open PowerShell as admin
