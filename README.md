@@ -1,10 +1,15 @@
 # Youtube Downloader
  Fast PyQt5 Youtube download application 
 
+# Description
+- Download Video or Sound
+- Download Singles & Playlists
+- Multiple Quality-Options Available
+ 
+![yt_dl](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
 
-
-
-FFmpeg Install:
+# FFMpeg Setup
+Windows Install:
 1. FFmpeg download link Windows 10: https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 2. Extract files to a folder named FFmpeg
 - FFmpeg:
@@ -24,10 +29,10 @@ FFmpeg Install:
     2. Type: 
         - ffmpeg -version
 
-____________________________________________________________________________________________
+# Application Compilation to Executable
 Compile to exe:
 1. Open terminal, download repository and cd into download directory:
-    - git clone https://github.com/LarsRosenkilde/Youtube-Downloader.git
+    - git clone https://github.com/bytesenseidk/Youtube-Downloader.git
     - cd Youtube-Downloader
 2. Install pyinstaller: 
     - pip install pyinstaller
@@ -36,16 +41,6 @@ Compile to exe:
 4. Compile script:
     - pyinstaller --onefile --windowed --icon=logo.ico YoutubeDownloader.py
 5. Executable file will be located inside "dist" folder.
-
-# Youtube Downloader
- Fast PyQt5 Youtube download application 
-
-# Description
-- Download Video or Sound
-- Download Singles & Playlists
-- Multiple Quality-Options Available
- 
-![yt_dl](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
 
 # Authors
 [Byte Sensei](https://github.com/bytesenseidk)
