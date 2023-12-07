@@ -1,7 +1,7 @@
 # Youtube Downloader
  Fast PyQt5 Youtube download application 
 
-![yt_dl](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
+
 
 
 FFmpeg Install:
@@ -36,3 +36,26 @@ Compile to exe:
 4. Compile script:
     - pyinstaller --onefile --windowed --icon=logo.ico YoutubeDownloader.py
 5. Executable file will be located inside "dist" folder.
+
+# Youtube Downloader
+ Fast PyQt5 Youtube download application 
+
+# Description
+- Download Video or Sound
+- Download Singles & Playlists
+- Multiple Quality-Options Available
+ 
+![yt_dl](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
+
+# Authors
+[Byte Sensei](https://github.com/bytesenseidk)
+
+# Version History
+- 0.1:
+  * Initial build
+- 0.2:
+  * PyQt5 GUI Integtation
+   
+# Licence
+This project is licenced under the Mozilla Public License 2.0 - see the [LICENCE](https://github.com/LarsRosenkilde/MusicPlayer/blob/master/LICENCE) for details
+
