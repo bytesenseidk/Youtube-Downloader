@@ -29,7 +29,7 @@ Windows Install:
     2. Type: 
         - ffmpeg -version
 
-# Application Compilation to Executable
+# Compile Application to Executable
 Compile to exe:
 1. Open terminal, download repository and cd into download directory:
     - git clone https://github.com/bytesenseidk/Youtube-Downloader.git
