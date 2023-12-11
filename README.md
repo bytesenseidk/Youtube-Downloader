@@ -52,5 +52,5 @@ Compile to exe:
   * PyQt5 GUI Integtation
    
 # Licence
-This project is licenced under the Mozilla Public License 2.0 - see the [LICENCE](https://github.com/LarsRosenkilde/MusicPlayer/blob/master/LICENCE) for details
+This project is licenced under the Mozilla Public License 2.0 - see the [LICENCE](https://github.com/bytesenseidk/Youtube-Downloader/blob/main/LICENCE) for details
 
