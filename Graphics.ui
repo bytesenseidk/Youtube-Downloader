@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>592</width>
-    <height>321</height>
+    <width>680</width>
+    <height>349</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,9 +17,9 @@
    <widget class="QLabel" name="label_top">
     <property name="geometry">
      <rect>
-      <x>130</x>
+      <x>10</x>
       <y>10</y>
-      <width>331</width>
+      <width>661</width>
       <height>41</height>
      </rect>
     </property>
@@ -41,9 +41,9 @@
    <widget class="QPushButton" name="button_download">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>170</y>
-      <width>111</width>
+      <x>270</x>
+      <y>180</y>
+      <width>131</width>
       <height>51</height>
      </rect>
     </property>
@@ -62,9 +62,9 @@
    <widget class="QCheckBox" name="check_video">
     <property name="geometry">
      <rect>
-      <x>390</x>
-      <y>190</y>
-      <width>151</width>
+      <x>470</x>
+      <y>200</y>
+      <width>181</width>
       <height>21</height>
      </rect>
     </property>
@@ -85,7 +85,7 @@
      <rect>
       <x>20</x>
       <y>60</y>
-      <width>551</width>
+      <width>641</width>
       <height>41</height>
      </rect>
     </property>
@@ -111,7 +111,7 @@
    <widget class="QPushButton" name="button_set">
     <property name="geometry">
      <rect>
-      <x>500</x>
+      <x>590</x>
       <y>110</y>
       <width>71</width>
       <height>41</height>
@@ -134,7 +134,7 @@
      <rect>
       <x>20</x>
       <y>110</y>
-      <width>471</width>
+      <width>561</width>
       <height>41</height>
      </rect>
     </property>
@@ -154,10 +154,10 @@
    <widget class="QRadioButton" name="radio_single">
     <property name="geometry">
      <rect>
-      <x>390</x>
+      <x>470</x>
       <y>160</y>
-      <width>81</width>
-      <height>21</height>
+      <width>91</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -175,10 +175,10 @@
    <widget class="QRadioButton" name="radio_playlist">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>560</x>
       <y>160</y>
-      <width>81</width>
-      <height>21</height>
+      <width>101</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -198,7 +198,7 @@
      <rect>
       <x>20</x>
       <y>240</y>
-      <width>551</width>
+      <width>631</width>
       <height>31</height>
      </rect>
     </property>
@@ -220,10 +220,10 @@
    <widget class="QComboBox" name="combo_quality">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>190</y>
-      <width>69</width>
-      <height>22</height>
+      <x>80</x>
+      <y>200</y>
+      <width>71</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -253,10 +253,10 @@
    <widget class="QLabel" name="label_quality">
     <property name="geometry">
      <rect>
-      <x>50</x>
+      <x>20</x>
       <y>160</y>
-      <width>151</width>
-      <height>21</height>
+      <width>191</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -280,8 +280,8 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>592</width>
-     <height>21</height>
+     <width>680</width>
+     <height>26</height>
     </rect>
    </property>
   </widget>
