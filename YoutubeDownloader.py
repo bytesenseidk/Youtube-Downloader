@@ -43,9 +43,13 @@ class MainWindow(QMainWindow):
         if self.check_video.isChecked():
             video_format = True
 
-        Download(url, save_path, quality, video_format, playlist).download()
-        self.input_url.setText("")
-        self.label_done.setText("Download Done!")
+        try:
+            Download(url, save_path, quality, video_format, playlist).download()
+            self.input_url.setText("")
+            self.label_done.setText("Download Done!")
+        except Exception as E:
+            self.input_url.setText("")
+            self.label_done.setText(str(E))
         
         
 class Download(object):
