@@ -1,4 +1,5 @@
 from __future__ import unicode_literals
+from Tmp_fix import update
 import os
 import sys
 import threading
@@ -6,7 +7,7 @@ import youtube_dl
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.uic import loadUi
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog
-
+#update()
 
 class MainWindow(QMainWindow):
     def __init__(self):
