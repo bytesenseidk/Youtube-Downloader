@@ -193,30 +193,46 @@
      <string>Playlist</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_done">
+   <widget class="QProgressBar" name="progress_bar">
     <property name="geometry">
-     <rect>
-      <x>20</x>
-      <y>240</y>
-      <width>631</width>
-      <height>31</height>
-     </rect>
+    <rect>
+    <x>20</x>
+    <y>240</y>
+    <width>641</width>
+    <height>31</height>
+    </rect>
+    </property>
+    <property name="value">
+    <number>0</number>
+    </property>
+    <property name="textVisible">
+    <bool>true</bool>
+    </property>
+    </widget>
+    <widget class="QLabel" name="label_done">
+    <property name="geometry">
+    <rect>
+    <x>20</x>
+    <y>280</y>
+    <width>641</width>
+    <height>31</height>
+    </rect>
     </property>
     <property name="font">
-     <font>
-      <family>Leelawadee UI</family>
-      <pointsize>14</pointsize>
-      <weight>50</weight>
-      <bold>false</bold>
-     </font>
+    <font>
+    <family>Leelawadee UI</family>
+    <pointsize>14</pointsize>
+    <weight>50</weight>
+    <bold>false</bold>
+    </font>
     </property>
     <property name="text">
-     <string/>
+    <string/>
     </property>
     <property name="alignment">
-     <set>Qt::AlignCenter</set>
+    <set>Qt::AlignCenter</set>
     </property>
-   </widget>
+    </widget>
    <widget class="QComboBox" name="combo_quality">
     <property name="geometry">
      <rect>
