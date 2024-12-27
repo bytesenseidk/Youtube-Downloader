@@ -81,9 +81,7 @@ The **Youtube Downloader** is a sleek and intuitive application designed to down
 ---
 
 ## **Screenshot**
-![Youtube Downloader Screenshot](https://user-images.githubusercontent.com/50791042/185397447-e67f6700-392d-4272-9898-01e73c232e97.png)
-
----
+![Youtube Downloader Screenshot](https://github.com/user-attachments/assets/1c422679-f07c-41d9-9519-4968bcffb606)
 
 ## **Changelog**
 
